@@ -1,1 +1,2 @@
 # RapidArts
+Great Organization
